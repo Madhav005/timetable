@@ -30,10 +30,10 @@ Execute the program
     </TR>
     
     <TR> 
-        <TH colspan="2" align="center" bgcolor="grey" height="50">Reference No. :</TH>
-        <TH colspan="2" align="center" bgcolor="grey" height="50">22007461</TH>
-        <TH colspan="2" align="center" bgcolor="grey" height="50">Name:</TH>
-        <TH colspan="4" align="center" bgcolor="grey" height="50">Madhavan M</TH>
+        <TH colspan="2.5" align="center" bgcolor="grey" height="50">Reference No. :</TH>
+        <TH colspan="3" align="center" bgcolor="grey" height="50">22007461</TH>
+        <TH colspan="2.5" align="center" bgcolor="grey" height="50">Name:</TH>
+        <TH colspan="3" align="center" bgcolor="grey" height="50">Madhavan M</TH>
     </TR>
     
     <tr>
