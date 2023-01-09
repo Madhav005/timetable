@@ -149,14 +149,8 @@ Execute the program
         <td colspan="2" align="center" height="50">-</td>
         <td colspan="2" align="center" height="50">Web Applications</td>
         <td colspan="2" align="center" height="50">Communicative English</td>
-    </tr>
-
-    
-
-
-    
+    </tr>   
     </TABLE>
-    
 </body>
 </html>
 ```
